@@ -6,14 +6,14 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Transitive Bullshit',
-  domain: 'transitivebullsh.it',
-  author: 'Travis Fischer',
+  name: 'Zoya 💟',
+  domain: 'http://bit.ly/zoyademo',
+  author: 'Zoya',
 
   // open graph metadata (optional)
-  description: 'Example site description',
-  socialImageTitle: 'Transitive Bullshit',
-  socialImageSubtitle: 'Hello World!!👋',
+  description: 'Demo Website For Zoya',
+  socialImageTitle: 'Zoya Services',
+  socialImageSubtitle: 'Catch me on instagram _.its.zoyaa',
 
   // social usernames (optional)
   //twitter: 'transitive_bs',
